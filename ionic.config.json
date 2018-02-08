@@ -1,0 +1,8 @@
+{
+  "name": "sortingtiles",
+  "app_id": "4f5089a7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
